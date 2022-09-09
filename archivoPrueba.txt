@@ -1,1 +1,2 @@
-Estoy escribiendo un texto 
+Estoy escribiendo un texto
+Ahora escribo en el nano. 
