@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Estoy escribiendo un texto
 Ahora escribo en el nano. 
+=======
+Estoy escribiendo un texto 
+Ahora lo modifico en el github.
+>>>>>>> 818aa80d4c0150f738a139ad0f92df30d1d30597
